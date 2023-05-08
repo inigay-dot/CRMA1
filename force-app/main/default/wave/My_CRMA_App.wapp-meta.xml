@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WaveApplication xmlns="http://soap.sforce.com/2006/04/metadata">
-    <description>This is my new CRM Analytics App</description>
+    <description>This is my newly created CRM Analytics App</description>
     <folder>My_CRMA_App</folder>
     <masterLabel>My_CRMA_App</masterLabel>
     <shares>
