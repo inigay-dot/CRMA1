@@ -29,3 +29,4 @@ force-app/main/default/profilePasswordPolicies/*
 # Make Named credentials manual, since we do not want to accidentally overwrite
 # credentials
 force-app/main/default/namedCredentials/*
+**/jsconfig.json
